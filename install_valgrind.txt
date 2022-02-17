@@ -1,0 +1,6 @@
+HomeBrew
+curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
+далее
+brew tap LouisBrunner/valgrind
+установка valgrind:
+brew install --HEAD LouisBrunner/valgrind/valgrind
